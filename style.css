@@ -13,7 +13,7 @@ body {
   font-family: "Roboto Condensed", sans-serif;
   min-height: 100vh;
   font-weight: 800;
-  background-image: url(/img/background-image2.jpg);
+  background-image: url(img/background-image2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
